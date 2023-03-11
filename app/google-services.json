@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25066698469",
+    "project_id": "firt-a16af",
+    "storage_bucket": "firt-a16af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25066698469:android:8a42d5d6c2c652aff8460c",
+        "android_client_info": {
+          "package_name": "com.app.om.firt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25066698469-r52026tmulqiougni74ns5g052dvu3r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuHBwYBNKMBrmNM818Z5r2BEqialcIRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25066698469-r52026tmulqiougni74ns5g052dvu3r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
